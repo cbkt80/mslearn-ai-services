@@ -47,3 +47,4 @@ notes.txt
 
 # misc
 Terraform/ssh-keys/
+.env
